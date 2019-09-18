@@ -58,7 +58,7 @@ class Youku(VideoExtractor):
         self.params = (
             ('0511', self.ref_youku, self.ckey_default),
             ('0524', self.ref_youku, self.ckey_default),
-            ('0517', self.ref_tudou, self.ckey_default),
+            ('0532', self.ref_tudou, self.ckey_default),
             )
 
     def prepare(self):
